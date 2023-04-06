@@ -1,0 +1,20 @@
+*{
+    overflow-x: hidden;
+}
+.txt{
+  
+    background: rgb(37, 100, 94);
+
+
+
+}
+.list-prog, footer{
+    background-color: #009688;
+}
+#diplomes, #activites{
+    background-color: #F44336;
+}
+/* .partenaires{
+    background-color: 
+    #EEF9F8;
+} */
